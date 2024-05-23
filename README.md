@@ -1,2 +1,2 @@
 # Twitter-sentimental-analysis
-Big data project that classify twitter's tweets according to their sentimental value , using machine learning model and numeric sentimental dictionary . The final result is the percentage of positive tweets from the total tweets for a given keyword
+My team developed a machine learning model that classifies Twitter tweets based on their sentiment using a numeric sentiment dictionary, ultimately providing the percentage of positive tweets for a given keyword.
